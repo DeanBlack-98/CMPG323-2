@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\New Project\New Project\bin\Debug\netcoreapp2.1\New Project.deps.json
+C:\Users\User\source\repos\New Project\New Project\bin\Debug\netcoreapp2.1\New Project.runtimeconfig.json
+C:\Users\User\source\repos\New Project\New Project\bin\Debug\netcoreapp2.1\New Project.runtimeconfig.dev.json
+C:\Users\User\source\repos\New Project\New Project\bin\Debug\netcoreapp2.1\New Project.dll
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.csprojAssemblyReference.cache
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.AssemblyInfo.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.TagHelpers.input.cache
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.TagHelpers.output.cache
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.RazorCoreGenerate.cache
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\New Project\New Project\bin\Debug\netcoreapp2.1\New Project.pdb
+C:\Users\User\source\repos\New Project\New Project\bin\Debug\netcoreapp2.1\New Project.Views.dll
+C:\Users\User\source\repos\New Project\New Project\bin\Debug\netcoreapp2.1\New Project.Views.pdb
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.Views.pdb
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.dll
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.pdb
+C:\Users\User\source\repos\New Project\New Project\obj\Debug\netcoreapp2.1\New Project.csproj.CopyComplete
