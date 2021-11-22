@@ -3638,11 +3638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\New Project\\ImageGallery.data\\ImageGallery.data.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (3)\\CMPG323-2\\New Project\\ImageGallery.data\\ImageGallery.data.csproj",
       "projectName": "ImageGallery.data",
-      "projectPath": "C:\\Users\\User\\source\\repos\\New Project\\ImageGallery.data\\ImageGallery.data.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder (3)\\CMPG323-2\\New Project\\ImageGallery.data\\ImageGallery.data.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\New Project\\ImageGallery.data\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder (3)\\CMPG323-2\\New Project\\ImageGallery.data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

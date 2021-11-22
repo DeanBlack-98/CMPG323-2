@@ -12557,11 +12557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\New Project\\New Project\\NewProject.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (3)\\CMPG323-2\\New Project\\New Project\\NewProject.csproj",
       "projectName": "NewProject",
-      "projectPath": "C:\\Users\\User\\source\\repos\\New Project\\New Project\\NewProject.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder (3)\\CMPG323-2\\New Project\\New Project\\NewProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\New Project\\New Project\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder (3)\\CMPG323-2\\New Project\\New Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12580,8 +12580,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\New Project\\ImageGallery.data\\ImageGallery.data.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\New Project\\ImageGallery.data\\ImageGallery.data.csproj"
+            "C:\\Users\\User\\Desktop\\New folder (3)\\CMPG323-2\\New Project\\ImageGallery.data\\ImageGallery.data.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder (3)\\CMPG323-2\\New Project\\ImageGallery.data\\ImageGallery.data.csproj"
             }
           }
         }

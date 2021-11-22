@@ -32,36 +32,40 @@ namespace New_Project.Controllers
                 Description = "Funny"
             };
 
+            weeImageTags.Add(tag);
+            seaImageTags.AddRange(new List<ImageTag> { tag, tag1, tag2 });
+
             var imageList = new List<GalleryImage>();
             {
                 new GalleryImage()
                 {
                     Title = "wee",
-                    Created = DateTime.Now,
                     Url = "",
+                    Created = DateTime.Now,                    
                     Tags = weeImageTags
                 };
 
                 new GalleryImage()
                 {
                     Title = "sea",
-                    Created = DateTime.Now,
                     Url = "",
+                    Created = DateTime.Now,
                     Tags = weeImageTags
                 };
 
                 new GalleryImage()
                 {
                     Title = "sea wee",
-                    Created = DateTime.Now,
                     Url = "",
+                    Created = DateTime.Now,
                     Tags = weeImageTags
                 };
                 
             };
             var model = new GalleryIndexModel()
             {
-                Images = imageList
+                Images = imageList,
+                ShearchQuery = ""
             };
             return View(model);
         }
