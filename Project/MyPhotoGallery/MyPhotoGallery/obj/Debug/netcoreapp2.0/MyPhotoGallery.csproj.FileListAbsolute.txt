@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\bin\Debug\netcoreapp2.0\MyPhotoGallery.deps.json
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\bin\Debug\netcoreapp2.0\MyPhotoGallery.runtimeconfig.json
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\bin\Debug\netcoreapp2.0\MyPhotoGallery.runtimeconfig.dev.json
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\bin\Debug\netcoreapp2.0\MyPhotoGallery.dll
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\bin\Debug\netcoreapp2.0\MyPhotoGallery.pdb
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\obj\Debug\netcoreapp2.0\MyPhotoGallery.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\obj\Debug\netcoreapp2.0\MyPhotoGallery.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\obj\Debug\netcoreapp2.0\MyPhotoGallery.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\obj\Debug\netcoreapp2.0\MyPhotoGallery.AssemblyInfo.cs
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\obj\Debug\netcoreapp2.0\MyPhotoGallery.dll
+C:\Users\User\Desktop\Project\MyPhotoGallery\MyPhotoGallery\obj\Debug\netcoreapp2.0\MyPhotoGallery.pdb
